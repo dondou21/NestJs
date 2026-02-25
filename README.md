@@ -10,17 +10,17 @@ Build a small REST API for managing tasks.
 
 - Create a `Task` module
 - Task fields:
-    - `id` (number)
-    - `title` (string, required, min length 3)
-    - `description` (string, optional)
-    - `status` (`TODO | IN_PROGRESS | DONE`)
-    - `createdAt`
+  - `id` (number)
+  - `title` (string, required, min length 3)
+  - `description` (string, optional)
+  - `status` (`TODO | IN_PROGRESS | DONE`)
+  - `createdAt`
 - Endpoints:
-    - `POST /tasks`
-    - `GET /tasks`
-    - `GET /tasks/:id`
-    - `PATCH /tasks/:id`
-    - `DELETE /tasks/:id`
+  - `POST /tasks`
+  - `GET /tasks`
+  - `GET /tasks/:id`
+  - `PATCH /tasks/:id`
+  - `DELETE /tasks/:id`
 
 ### Interview Expectations
 
@@ -30,4 +30,3 @@ Build a small REST API for managing tasks.
 - Separate controller/service logic
 - Proper HTTP exceptions
 - Clean folder structure
-
