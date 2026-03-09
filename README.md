@@ -1,6 +1,5 @@
 # Practical exercices
 
-
 ## 1️⃣ CRUD + Validation + Architecture
 
 ### 🧩 Exercise: Task Management API
