@@ -1,7 +1,5 @@
 
 
-
-
 # Practical exercices
 
 ## 1️⃣ CRUD + Validation + Architecture
