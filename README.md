@@ -11,7 +11,7 @@ Build a small REST API for managing tasks.
 - Create a `Task` module 
 - Task fields:
     - `id` (number)
-    - `title` (string, required, min length 3)
+    - `title` (string, required, min length 3) 
     - `description` (string, optional)
     - `status` (`TODO | IN_PROGRESS | DONE`)
     - `createdAt`
