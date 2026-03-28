@@ -26,7 +26,7 @@ Build a small REST API for managing tasks.
 ### Interview Expectations
 
 - Use DTOs with `class-validator`
-- Use Pipes for validation
+- Use Pipes for validation 
 - Use enums correctly
 - Separate controller/service logic
 - Proper HTTP exceptions
