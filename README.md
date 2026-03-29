@@ -15,7 +15,7 @@ Build a small REST API for managing tasks.
     - `title` (string, required, min length 3) 
     - `description` (string, optional)
     - `status` (`TODO | IN_PROGRESS | DONE`)
-    - `createdAt`
+    - `createdAt` 
 - Endpoints:
     - `POST /tasks`
     - `GET /tasks`
