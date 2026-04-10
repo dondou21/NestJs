@@ -2,6 +2,7 @@
 
 ## 1️⃣ CRUD + Validation + Architecture    
 
+ 
 ### 🧩 Exercise: Task Management API
 
 Build a small REST API for managing tasks.   
